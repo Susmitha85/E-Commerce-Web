@@ -33,25 +33,20 @@ Icons: Font Awesome
 Local Storage (Optional): Can be used for persisting cart data
 
 # 📂 Project Structure
-
 ```bash
-
-Femmefits/
-
-  │── index.html        # Main entry point
-  │── style.css         # Custom stylesheet
-  │── script.js         # (Optional) JS logic for dynamic cart & forms
-  │── /assets           # Images, logos, icons
-
-
-
+ Femmefits/
+   │── index.html        # Main entry point
+   │── style.css         # Custom stylesheet
+   │── script.js         # (Optional) JS logic for dynamic cart & forms
+   │── /assets           # Images, logos, icons
+```
 
 # ⚡ How to Run
 
 Clone or download the project:
-
+```bash
 git clone https://github.com/yourusername/femmefits.git
-
+```
 
 Open the folder in your code editor.
 
