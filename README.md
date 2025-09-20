@@ -38,13 +38,13 @@ Local Storage (Optional): Can be used for persisting cart data
 
 Femmefits/
 
-│── index.html        # Main entry point
+  │── index.html        # Main entry point
+  │── style.css         # Custom stylesheet
+  │── script.js         # (Optional) JS logic for dynamic cart & forms
+  │── /assets           # Images, logos, icons
 
-│── style.css         # Custom stylesheet
 
-│── script.js         # (Optional) JS logic for dynamic cart & forms
 
-│── /assets           # Images, logos, icons
 
 # ⚡ How to Run
 
