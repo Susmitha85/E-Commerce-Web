@@ -34,6 +34,8 @@ Local Storage (Optional): Can be used for persisting cart data
 
 # 📂 Project Structure
 
+```bash
+
 Femmefits/
 
 │── index.html        # Main entry point
