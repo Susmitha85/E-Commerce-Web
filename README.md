@@ -33,7 +33,7 @@ Icons: Font Awesome
 Local Storage (Optional): Can be used for persisting cart data
 
 # 📂 Project Structure
-```bash
+ ```bash
  Femmefits/
    │── index.html        # Main entry point
    │── style.css         # Custom stylesheet
@@ -44,7 +44,7 @@ Local Storage (Optional): Can be used for persisting cart data
 # ⚡ How to Run
 
 Clone or download the project:
-```bash
+ ```bash
 git clone https://github.com/yourusername/femmefits.git
 ```
 
