@@ -71,5 +71,5 @@ Use XAMPP / Live Server for smoother navigation experience.(Optional)
 👩‍💻 Author
 
 Femmefits was designed and developed as an E-Commerce website project.
-Feel free to fork, modify, and enhance!
+
 @susmitha
