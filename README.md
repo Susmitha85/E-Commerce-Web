@@ -7,11 +7,17 @@ This project simulates a shopping platform with multiple pages, product listings
 # 🚀 Features
 
 Multi-Page Navigation: Home, Products, Categories, Cart, Checkout, Login, and Order Confirmation.
+
 Responsive Design using Bootstrap 5 and Font Awesome icons.
+
 Add to Cart Functionality with cart count updates.
+
 Checkout Flow including order confirmation message.
+
 Product Categories to organize items (Clothing, Accessories, Footwear, etc.).
+
 User Authentication Pages: Login & Signup forms.
+
 Custom Styles with external style.css.
 
 # 🛠️ Tech Stack
@@ -29,9 +35,13 @@ Local Storage (Optional): Can be used for persisting cart data
 # 📂 Project Structure
 
 Femmefits/
+
 │── index.html        # Main entry point
+
 │── style.css         # Custom stylesheet
+
 │── script.js         # (Optional) JS logic for dynamic cart & forms
+
 │── /assets           # Images, logos, icons
 
 # ⚡ How to Run
